@@ -1,0 +1,39 @@
+ul.tech li { 
+    line-height: 24px; 
+    border-bottom: 1px solid #ccc; 
+}
+ul.talent {
+    list-style-type:none
+}
+hr {
+    height: 3px;
+    background-color::black;
+}
+body {
+    font-family: Georgia;
+}
+h1.super_header {
+    font-size:60px;
+    line-height:55px;
+}
+#signature {
+      font: 400 15px/1.5 'Pacifico', Helvetica, sans-serif;
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -63px;
+}
+.push {
+    height: 63px;
+}
+html, body {
+    height: 100%;
+}
+footer {
+    padding: 17px 0 18px 0;
+}
+div.print {
+    width:6.5in;
+}
